@@ -1,0 +1,36 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+
+# Build directories
+dist/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: If using TypeScript
+*.tsbuildinfo
+
+# Optional: If using coverage tools
+coverage/
+
+# Optional: If using npm link or local dependencies
+.npm/
+
+# Optional: If using Jest or other testing libraries
+jest/
